@@ -1,0 +1,7 @@
+Requirements for running disease_prediction.py:
+
+the libraries required are
+pandas
+sklearn
+numpy
+tkinter
